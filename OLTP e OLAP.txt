@@ -1,0 +1,15 @@
+OLTP ou processamento de transações online, é responsável pela execução em tempo real de um grande número de transações de banco de dados por um grande número de pessoas, normalmente pela internet. A transação de banco de dados é uma mudança, inserção, exclusão ou consulta de dados em um banco de dados.
+
+Assim mantendo o banco e o Site sempre atualizado , evitando conflitos , exemplo = como duas pessoas comprar o mesmo assento de viajem 
+
+
+O OLAP é uma tecnologia de banco de dados que foi otimizada para consulta e relatório, em vez de processar transações. Os dados de origem do OLAP são bancos de dados OLTP (Processamento Transacional Online) que são comumente armazenados em data warehouses.
+
+O OLAP é usado para:
+Organizar bancos de dados
+Dar suporte ao business intelligence
+Executar consultas analíticas complexas
+Gerar insights
+Apoiar decisões de negócio
+Avaliar o desempenho operacional
+
