@@ -1,0 +1,59 @@
+Abstração e transformar algo fictício pra essência, tirar da mente e colocar em pratica , primeiro vc abstrai e depois coloca em pratica.
+
+
+
+Modelo de dados conceitual - entidades, relacionamento e atributos (modelo mais fácil pra demonstrar o sistema, principalmente pra quem n e da área)
+
+Modelo de dados físico - implementação no sistema, índices e Hashes(nessa parte geralmente e necessário de um especialista, pois trata da parte física(SSD))
+
+Modelo Representacional - definir os requisitos do sistema , definir as linguagens , operação e constrains (algo mais especifico para o banco de dados)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Esquema e a representação do seu banco de dados , de como ele é , como ele funciona, tipo uma historia , ta falando sobre ele e definir como ele e ou deve ser.
+
+
+Three-Schema - catálogo, Views e Isolamento/data/program (define o que cada esquema faz dentro do banco de dados, isolando cada função , sem um atrapalhar o outro)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DDL - Data Definition Language - CREATE: Cria novos objetos de banco de dados, como tabelas, índices, visões e procedimentos armazenados
+ALTER: Modifica a estrutura de objetos de banco de dados existentes, como adicionar ou remover colunas de tabelas
+DROP: Remove um objeto de banco de dados
+
+DML pode referir-se a Linguagem de Manipulação de Dados ou Depósito de Material de Limpeza: Linguagem de Manipulação de Dados
+É um conjunto de comandos SQL que permitem manipular dados em tabelas de banco de dados ou exibições de consulta. A DML é usada para adicionar, editar ou excluir dados. Alguns exemplos de comandos DML são INSERT, UPDATE e DELETE.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Classificação dos Bancos 
+
+NoSql / SQL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
