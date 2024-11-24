@@ -1,0 +1,56 @@
+MUNDO FECHADO - LOGICA FORMAL DO SISTEMA QUE VAI ALEM DO BD , TODA INFORMAÇÃO QUE ESTÁ DENTRO DO BD, EU POSSO RESPONDER , TUDO QUE ESTÁ FORA EU NÃO POSSO, SENDO ASSIM FALSO. 
+
+CLOSE WORLD ASSUMPTION - SE A INFORMAÇÃO NÃO ESTA DENTRO DO MEU BANCO , A GENTE FAZ A POSSIBILIDADE DAQUILO ACONTECER OU RESOLVER O PROBLEMA 
+
+A PARTIR DO MOMENTO QUE SAI DO BANCO DE DADOS , TUDO VIRA UMA PROBALIDADE DE ACONTECER OU RESOLVER , JÁ OQ ESTA DENTRO E VERDADEIRO 
+
+PREDITCADO E A PARTE DA ORAÇÃO Q CONTEM O VERBO E QUE TRAZ INFORMAÇÕES SOBRE O SUJEITO (WHERE,join,AND,OR,NOT ETC POR EXEMPLO)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MODELAGEM DE DADOS 
+
+a modelagem tem que ser feita , pensando em varias sintonias e integrações, pois geralmente vários sites ou app usam API de algo pra buscar informações. 
+
+Nessa fase que definimos os requisitos e como o banco devera ser
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+como criar um modelo ?? pode ser feito com gráficos ou textos , de como ele pode ficar, quais suas entidades/tabelas/relacionamentos/requisitos etc, e nesse momento que coletamos dados e analise (no conceitual).
+
+e no projeto conceitual que definimos  o que e mais importante , se aquilo vai virar tabela ou entidade, se vale a pena fazer combinações etc.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PROJETO LÓGICO - E JUSTAMENTE A DESCRIÇÃO DO MODELO CONCEITUAL 
+
+e nesse momento que criamos um mapeamento especificando o nosso projeto, vindo do conceitual , pro logico.
+
+nesse momento precisamos entender qual o tipo da entidade , cardinalidade , multivalorados etc
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PROJETO FISICO - ALOCAÇÃO DE MEMORIA E PARTICIONAMENTO DE TABELAS 
+
+ESTRUTURA E INDICES 
+
+ORGANIZAÇÃO E CAMINHOS DE ARQUIVOS 
+
+SEGURANÇA E PERFORMANCE 
+
+E AGORA QUE O PROJETO CONCEITUAL E LOGICO , VIRA SQL MESMO , VIRA O FISICO 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
