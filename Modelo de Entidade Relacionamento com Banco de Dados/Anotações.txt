@@ -1,0 +1,46 @@
+Entidade e relacionamento - o modelo de define como vai ser os relacionamentos, os nomes e algumas estruturas.
+
+o foco esta nos esquemas e não nas estancias 
+
+Entidades - componente básico, existência independente e atributos 
+
+estancia e o conjunto de entidades com o mesmo tipo de entidade, com as mesmas características e foco 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Atributos são as propriedades de uma entidade - podendo atômicos ou compostos , atributos multivalorados, armazenados e derivados e atributos nulos ou complexos 
+
+Atributo composto - ele se sub divide em outros campos , por exemplo endereço , ele pode ser dividido em rua , numero , bairro , cidade etc
+
+Atributos Simples/Multivalorados - pode ter um ou mais valores dentro dela 
+
+Atributos Derivados = SQL , são valores que podem mudar sempre , por exemplo idade do cliente 
+
+ATRIBUTOS ARMAZENADOS = SSD POR EXEMPLO , são valores que dificilmente mudam , tipo a data de nascimento 
+
+Atributos Nulos - São atributos que não são obrigatórios colocar , são opcional , pode ou n colocar
+
+Atributo multivalorado: Atributo que pode ter múltiplos valores para o mesmo atributo.
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entidade Fraca - Chave não obrigatória , dependência  e exclusão cascata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

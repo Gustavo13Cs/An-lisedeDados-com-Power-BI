@@ -1,0 +1,67 @@
+Diagramar ERR , Desenvolvidos fora da área de BDs , Novos conceito semânticos 
+
+Modelo Enchanced ER - SuperClasse , Herança e SubClasse 
+
+SubClasse - É uma entidade derivada de uma entidade geral, chamada de superclasse. A subclasse herda os atributos e os relacionamentos da superclasse, mas pode ter atributos e relacionamentos específicos. 
+
+SubTipo - o termo subtipo é equivalente ao conceito de subclasse. Ele representa uma especialização de uma entidade, permitindo modelar variações ou categorias específicas de uma entidade geral, chamada de supertipo. , EXEMPLO Neste caso:
+
+Veículo é o supertipo.
+Carro e Caminhão são subtipos.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Herança - é o mecanismo que permite que uma subclasse (ou subtipo) herde os atributos e os relacionamentos de uma superclasse (ou supertipo). Este conceito é fundamental para modelar especializações, onde uma entidade genérica é refinada em entidades mais específicas. 
+
+A herança no modelo EER é o processo pelo qual:
+
+A subclasse recebe todos os atributos e relacionamentos da superclasse.
+A subclasse pode adicionar atributos e relacionamentos próprios
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Generalização e o inverso da especialização e propriedades comuns as entidas. 
+
+Definição: É o processo de combinar múltiplas entidades específicas em uma entidade mais geral (ou genérica).
+Objetivo: Identificar semelhanças entre entidades diferentes para criar um único supertipo que represente características comuns.
+
+Exemplo: Imagine as entidades Carro e Moto. Ambas têm atributos como Placa, Modelo, e Ano. Na generalização, podemos criar uma entidade genérica Veículo que engloba essas características comuns, enquanto os detalhes específicos permanecem em cada subtipo.
+
+Especialização
+Definição: É o processo de derivar entidades mais específicas (subtipos) a partir de uma entidade geral (supertipo), adicionando características específicas que diferenciam os subtipos.
+Objetivo: Identificar variações ou detalhes únicos que só se aplicam a alguns subconjuntos da entidade geral.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+No Modelo Enhanced Entity-Relationship (EER), constraints (restrições) são regras ou condições que definem como os dados podem ser armazenados, organizados e relacionados no modelo. Elas ajudam a garantir a integridade e a consistência dos dados e podem ser aplicadas a atributos, entidades, relacionamentos, generalizações ou especializações.
+
+Essas restrições são essenciais para criar modelos robustos que reflitam as regras e os comportamentos esperados no sistema real.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
