@@ -66,8 +66,6 @@ Dependent_name varchar(15) not null,
 Sex char, -- F ou M
 Bdate date,
 Relationship varchar(8),
-Age int not null,
-constraint chck_age_dependent check (Age < 22),
 primary key (Essn,Dependent_name),
 constraint fk_dependent foreign key (Essn) references employee(Ssn)
 );
