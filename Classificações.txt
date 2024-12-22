@@ -1,0 +1,12 @@
+DDL ou Data Definition Language (Linguagem de Definição de dados) permite ao usuário definir as novas tabelas e os elementos que serão associados a elas. É responsável pelos comandos de criação e alteração no banco de dados, sendo composto por três comandos: CREATE, ALTER e DROP.
+
+DCL (Data Control Language) é um conjunto de comandos SQL que controlam a segurança e as permissões de um banco de dados. Com os comandos DCL, o administrador do banco de dados pode conceder ou revogar permissões de acesso para usuários e grupos de usuários
+
+DQL é a sigla para Data Query Language, que significa Linguagem de Consulta de Dados, e é um subconjunto da linguagem SQL (Structured Query Language). A DQL é utilizada para consultar e extrair dados armazenados em um banco de dados relacional. 
+O principal comando da DQL é o SELECT, que é usado para recuperar registros de uma ou mais tabelas. A sintaxe básica do comando SELECT 
+
+
+
+
+
+
