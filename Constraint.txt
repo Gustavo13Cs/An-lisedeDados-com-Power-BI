@@ -1,0 +1,18 @@
+NOT NULL - DEFINIR QUE O VALOR NÃO PODE SER NULO 
+
+PK - DEFINIR COMO PRIMARY KEY 
+
+DEFAULT serve para definir um valor padrão para uma coluna, que será inserido quando não for especificado um valor para aquela coluna
+
+CHECK no SQL serve para limitar o intervalo de valores que podem ser inseridos em uma coluna ou tabelas de um banco de dados
+
+DELETE no SQL (Structured Query Language) serve para remover linhas ou registros de uma tabela ou de um banco de dados
+
+UNIQUE é uma restrição de banco de dados que garante que não existam valores duplicados em uma coluna ou conjunto de colunas
+
+DISTINCT no SQL serve para eliminar linhas duplicadas de uma tabela e exibir apenas os valores únicos
+
+O mapeamento no SQL tem várias funções, incluindo:
+Associar uma função ou modelo de banco de dados federado a uma função em uma fonte de dados especificada ou em uma gama de fontes de dados 
+Mapear um banco de dados de origem para qualquer banco de dados de destino 
+Personalizar o mapeamento de dados para valores menores e maiores do mesmo tipo de dados

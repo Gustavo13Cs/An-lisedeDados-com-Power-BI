@@ -1,0 +1,14 @@
+order by , serve pra ordenar os dados , quando pega do banco , de acordo como vc deseja 
+
+Select (Atributo) FROM (TABELA) WHERE (CONDIÇÃO) ORDER BY (ATRIBUTO)
+
+Agrupamento de registros 
+
+Count - registros 
+Sum - somatório
+Min - valor mínimo - atributo 
+Max - valor máximo - atributo 
+Average - media de valor - atributo 
+
+Select Dno,Count(*) AVG (Salary) From Employee Group By Dno;
+

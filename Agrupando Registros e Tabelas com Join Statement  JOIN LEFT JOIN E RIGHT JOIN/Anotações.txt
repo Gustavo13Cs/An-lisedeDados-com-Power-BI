@@ -1,0 +1,36 @@
+Case Statement - Swith Case
+
+
+Troca de um valor , Condições para troca e Mapeamento de valores de correspondência 
+
+
+O Caso zero/null trake
+
+Filtros - valores distintos 
+Select Query
+SEM WHERE
+
+Queres com INNER join 
+
+O INNER JOIN é uma operação do SQL que serve para combinar registros de duas ou mais tabelas, quando há valores correspondentes em um campo comum a ambas. É o tipo de junção mais comum e é muito útil para criar relatórios abrangentes e consultas mais complexas.
+
+Um exemplo de uso do INNER JOIN é selecionar todos os funcionários em cada departamento, utilizando as tabelas Departamentos e Funcionários. 
+O INNER JOIN é diferente do LEFT (OUTER) JOIN, que retorna todos os registros da tabela à esquerda, juntamente com os registros correspondentes da tabela à direita.
+
+
+
+A ORDEM IMOPORTA NO JOIN ??
+
+NÃO , O SGBG ESCOLHE DA MELHOR FORMA , DEIXANDO O DESEMPENHO EM PRIMEIRO LUGAR
+
+mas tem como forçar usando o FORCE ORDER OU STRAIGHT_JOIN 
+
+
+
+
+
+
+
+
+
+
