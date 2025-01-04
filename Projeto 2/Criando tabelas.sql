@@ -15,9 +15,11 @@ alter table Clients auto_increment=1;
 
 -- Criar Tabela produto
 -- Size = dimensão do produto
+ALTER TABLE Product
+MODIFY Pname VARCHAR(255);
 Create table Product(
 idProduct int auto_increment primary key,
-Pname varchar(10),
+Pname varchar(255),
 Classification_kids bool default false,
 category enum("Eletronico","Vestimento","Brinquedos","Alimentos","Moveis") not null,
 Avaliação float default 0,
@@ -126,6 +128,21 @@ constraint fk_product_supplier_product foreign key (idPsProduct) references prod
 );
 
 show tables;
+
+CREATE TABLE Pagamento (
+    idPagamento INT AUTO_INCREMENT PRIMARY KEY,
+    Cartao BOOL NOT NULL DEFAULT 1,
+    Boleto BOOL NOT NULL DEFAULT 0,
+    Pix BOOL NOT NULL DEFAULT 0,
+    DoisCartoes BOOL NOT NULL DEFAULT 0
+);
+
+Create table Entrega (
+CodigoDeRastreio int AUTO_INCREMENT PRIMARY KEY,
+Status Enum("Entregue", "A Caminho", "Em Coleta", "Em processamento") default 'Em processamento'
+);
+
+
 
 
 
