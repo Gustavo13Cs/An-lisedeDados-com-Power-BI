@@ -1,0 +1,36 @@
+Dados são estruturas brutas , onde tira informações 
+
+ETL é uma sigla para **Extract, Transform, Load** (Extrair, Transformar e Carregar), que é um processo fundamental em sistemas de **Business Intelligence (BI)** e **Data Warehousing**. Ele é usado para coletar dados de diferentes fontes, transformá-los em um formato adequado e carregá-los em um sistema de destino, como um banco de dados ou um data warehouse. Vamos detalhar cada etapa:
+
+### 1. **Extract (Extrair)**
+- Nesta etapa, os dados são coletados de várias fontes, como bancos de dados, arquivos CSV, APIs, sistemas legados, entre outros.
+- O objetivo é reunir os dados brutos, independentemente do formato ou da estrutura.
+
+### 2. **Transform (Transformar)**
+- Os dados extraídos são processados para atender às necessidades do sistema de destino.
+- Isso pode incluir:
+  - Limpeza de dados (remover duplicatas, corrigir erros).
+  - Conversão de formatos (ex.: de texto para número).
+  - Aplicação de regras de negócios.
+  - Agregações (ex.: calcular médias ou somas).
+
+### 3. **Load (Carregar)**
+- Os dados transformados são carregados no sistema de destino, como um banco de dados relacional, data warehouse ou um sistema de análise.
+- Esse sistema será usado para gerar relatórios, análises ou outros insights.
+
+### **Por que o ETL é importante?**
+- Ele permite que dados de diferentes origens sejam integrados e usados de maneira eficiente.
+- É essencial para organizações que precisam tomar decisões baseadas em dados.
+- Facilita a criação de relatórios e dashboards confiáveis e consistentes.
+
+### **Ferramentas de ETL**
+Existem várias ferramentas para realizar ETL, como:
+- **Informatica PowerCenter**
+- **Talend**
+- **Microsoft SQL Server Integration Services (SSIS)**
+- **Apache Nifi**
+- **Pentaho Data Integration (PDI)**
+- **Airbyte** (moderno e open-source).
+
+Se você está interessado em trabalhar com ETL, aprender sobre essas ferramentas e linguagens como SQL e Python pode ser um bom começo!
+
