@@ -1,0 +1,2 @@
+O Power BI é uma ferramenta de business intelligence (BI) e análise de dados desenvolvida pela Microsoft. Ele é usado para transformar dados brutos em informações visuais e interativas que ajudam na tomada de decisões estratégicas.
+
