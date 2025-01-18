@@ -1,2 +1,16 @@
 O Power BI é uma ferramenta de business intelligence (BI) e análise de dados desenvolvida pela Microsoft. Ele é usado para transformar dados brutos em informações visuais e interativas que ajudam na tomada de decisões estratégicas.
 
+KPI é a sigla em inglês para Key Performance Indicator, que em português significa Indicador-Chave de Desempenho. 
+Os KPIs são ferramentas que permitem às empresas medir o desempenho das suas ações e estratégias. Eles são usados para acompanhar o progresso de metas específicas ou gerais. 
+
+Os KPIs são importantes porque ajudam as empresas a identificar problemas e a criar ações de melhoria. 
+Alguns exemplos de KPIs são: Taxa de conversão de vendas, Tempo de permanência no site, Número de assinaturas da newsletter, Taxa de churn (taxa de desligamento), Custo de aquisição de clientes. 
+Para definir um KPI, é importante definir uma meta clara e alcançável. 
+
+
+Quais as vantagens de utilizar KPIs?
+Qual a importância dos KPIs? Eles são parte fundamental da estratégia de gestão de qualquer empresa, possibilitam um acompanhamento e melhor gerenciamento do nível de desempenho e sucesso das estratégias. Com os KPIs, a empresa consegue entender como está cada um dos números e traçar metas plausíveis e realizáveis.
+
+
+
+
