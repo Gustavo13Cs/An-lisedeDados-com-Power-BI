@@ -1,0 +1,30 @@
+A modelagem dimensional é uma técnica de design que organiza dados em bancos de dados ou data warehouses. Ela é usada para facilitar a análise de dados e a obtenção de insights. 
+A modelagem dimensional foi desenvolvida pelo professor Ralph Kimball no início da década de 1990. 
+Como funciona?
+A modelagem dimensional divide o mundo em medições e contexto. 
+As medições são normalmente numéricas e são tomadas repetidamente. 
+O contexto que as rodeia é aberto e verboso. 
+As tabelas de fatos armazenam as medidas numéricas, enquanto as tabelas dimensionais armazenam as informações descritivas. 
+As tabelas de dimensões são conectadas às tabelas de fatos por chaves estrangeiras. 
+
+Vantagens
+A modelagem dimensional é simples de usar e permite que os usuários naveguem com eficiência nos dados. 
+É útil para lidar com grandes volumes de dados. 
+Permite explorar dados de diferentes ângulos ou dimensões. 
+Desvantagens 
+Pode não lidar bem com dados que mudam com frequência ou que exigem atualizações em tempo real.
+
+A modelagem dimensional se inicia dividindo o mundo entre medições e contexto. Medições são usualmente numéricas e tomadas repetidamente. Medições numéricas são fatos. Fatos estão sempre cercados geralmente por contexto textuais, que são verdadeiros no momento em que os fatos são gerados. 
+
+
+Modelo estrela e o mais difundido dos modelos , star schema , conexão das tabelas em forma de estrela com dois tipos de tabelas , fato e dimensão 
+
+Tabela fato está relacionado ao o que vc quer (a principal) já a tabela dimensão são as tabelas que ficam em volta da tabela fato , as tabelas dimensão os os detalhes geralmente. 
+
+Granularidade - Granularidade de dados
+Refere-se ao nível de detalhamento dos dados e à forma como eles são sumarizados 
+Quanto maior a granularidade, mais detalhes e informações específicas o conjunto de dados contém 
+Uma granularidade alta permite identificar riscos mais específicos, enquanto uma granularidade baixa permite identificar riscos mais gerais 
+
+cHAVE ARTIFICIAL - chave relacionda ao modelo dimensional , substitui a identificação sem sobreposição , facilita a identificação de registros no modelo atual
+
