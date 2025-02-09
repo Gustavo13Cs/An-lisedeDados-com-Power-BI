@@ -1,0 +1,9 @@
+DAX (Data Analysis Expressions) é a linguagem de fórmulas do Power BI, do Excel (Power Pivot) e do Analysis Services Tabular. Ele é usado para criar medidas, colunas calculadas e tabelas calculadas, permitindo realizar análises avançadas de dados.
+
+🔹 O que você pode fazer com DAX no Power BI?
+DAX permite:
+
+Criar medidas (cálculos dinâmicos como somas, médias, contagens, etc.).
+Criar colunas calculadas (valores derivados de outras colunas).
+Criar tabelas calculadas (novas tabelas baseadas em expressões DAX).
+Trabalhar com funções time intelligence (acompanhamento de métricas ao longo do tempo).
