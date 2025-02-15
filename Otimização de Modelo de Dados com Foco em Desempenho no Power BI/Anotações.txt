@@ -7,3 +7,5 @@ Criar medidas (cálculos dinâmicos como somas, médias, contagens, etc.).
 Criar colunas calculadas (valores derivados de outras colunas).
 Criar tabelas calculadas (novas tabelas baseadas em expressões DAX).
 Trabalhar com funções time intelligence (acompanhamento de métricas ao longo do tempo).
+
+
